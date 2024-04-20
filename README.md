@@ -22,7 +22,7 @@
 
 - 🔭 I’m currently working on [Pocket Carrom Game](https://github.com/nthpudding/PocketCarrom.git)
 
-- 🌱 I’m currently learning **Pentest Security, Pentest, Javascript And many more**
+- 🌱 I’m currently learning **Cyber Security, Pentest, Javascript And many more**
 
 - 📫 How to reach me **tienhieutmhd@gmail.com**
 
