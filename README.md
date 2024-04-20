@@ -91,7 +91,7 @@
 
 ###
 
-![snake animation](https://github.com/<nthpudding>/<nthpudding>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/<seu nthpudding>/<seu nthpudding>/blob/output/github-contribution-grid-snake2.svg)
 
 ###
 
