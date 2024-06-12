@@ -19,7 +19,7 @@
 
 ###
 
-- 🔭 I’m currently working on [Pocket Carrom Game](https://github.com/nthpudding/PocketCarrom.git)
+- 🔭 I’m currently working on [Discord Bot Sheet API](https://github.com/nthpudding/SheetDiscordBot)
 
 - 🌱 I’m currently learning **Cyber Security, Pentest, Javascript And many more**
 
