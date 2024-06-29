@@ -21,7 +21,7 @@
 
 - 🔭 I’m currently working on [Discord Bot Sheet API](https://github.com/nthpudding/SheetDiscordBot)
 
-- 🌱 I’m currently learning **Javascript And many more**
+- 🌱 I’m currently learning **Web and many more**
 
 - 📫 How to reach me **tienhieutmhd@gmail.com**
 
